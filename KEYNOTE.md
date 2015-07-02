@@ -1,6 +1,6 @@
 ###keynote  - Christopher Chedeau 
 
-* Large community
+UX & DX (developer experience) +1
 ####Data
 Flux - one way data flow
 react-router serverside rendering
